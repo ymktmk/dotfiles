@@ -3,5 +3,5 @@
 ### install
 
 ```
-zsh -c "$(curl -fsSL https://raw.githubusercontent.com/ymktmk/dotfiles/main/install.sh)"
+zsh -c "$(curl -fsSL https://raw.githubusercontent.com/ymktmk/dotfiles/HEAD/install.sh)"
 ```
